@@ -1,1 +1,1 @@
-# bainery-tree
+Binery Search tree
